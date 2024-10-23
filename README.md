@@ -6,6 +6,8 @@ The "Employee Tracker" functions the way its name would suggest. It is an employ
 
 ## Usage
 
+Video walkthrough: https://drive.google.com/file/d/1bXQY1RddDF3Lpqei-tFoGqhe2MOx32vL/view?usp=sharing
+
 When the application starts, the user is given a menu prompt. They can view preexisting "Departments," "Roles," and "Employees," or add new data to any of these categories.
 
 When the user wants to view this data, information will be displayed in a table.
