@@ -10,7 +10,7 @@ When the application starts, the user is given a menu prompt. They can view pree
 
 When the user wants to view this data, information will be displayed in a table.
 
-(ss1)
+![Screenshot 1](dbss1.png)
 (ss2)
 (ss3)
 (ss4)
