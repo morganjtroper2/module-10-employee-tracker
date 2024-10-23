@@ -11,14 +11,14 @@ When the application starts, the user is given a menu prompt. They can view pree
 When the user wants to view this data, information will be displayed in a table.
 
 ![Screenshot 1](dbss1.png)
-(ss2)
-(ss3)
-(ss4)
+![Screenshot 2](dbss2.png)
+![Screenshot 3](dbss3.png)
+![Screenshot 4](dbss4.png)
 
 The user also has the ability to add new data to any of these categories.
 
-(ss5)
-(ss6)
+![Screenshot 5](dbss5.png)
+![Screenshot 1](dbss6.png)
 
 ## Contributing
 
