@@ -20,9 +20,9 @@ The user also has the ability to add new data to any of these categories.
 (ss5)
 (ss6)
 
-##Contributing
+## Contributing
 
 This app was made by Morgan Troper for the Module 10 Bootcamp Challenge. ChatGPT provided assistance and code.
 
-##License
+## License
 [MIT](https://choosealicense.com/licenses/mit/)
